@@ -1,11 +1,30 @@
 # Mod 1 SVI: Neural Network Visualizer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?logo=github" alt="Live Demo"/>
+  <img src="https://img.shields.io/github/license/jenicac/mod-1-svi-visualizer?color=blue" alt="MIT License"/>
+  <img src="https://img.shields.io/github/deployments/jenicac/mod-1-svi-visualizer/github-pages?label=Deployment&logo=github" alt="Deployment Status"/>
+</p>
+
+---
+
 A modern, interactive React application for visualizing simple neural network forward propagation using CDC Social Vulnerability Index (SVI) data.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?logo=github)](https://jenicac.github.io/mod-1-svi-visualizer)
 
 ## Overview
 This project helps users understand how a basic neural network processes real-world SVI data. Upload your own data or use sample scenarios, adjust input values, and visually trace the step-by-step propagation through the network. The app is ideal for education, demonstration, and exploratory data analysis.
+
+## 🗺️ What is the CDC Social Vulnerability Index (SVI)?
+
+> The **CDC Social Vulnerability Index (SVI)** is a dataset developed by the U.S. Centers for Disease Control and Prevention (CDC) to help identify communities that may need support before, during, or after disasters. It combines 15 social factors—such as poverty, lack of vehicle access, and crowded housing—into a single index for every U.S. census tract.
+>
+> **Why is SVI useful?**
+> - 🏥 **Public Health:** Target resources to communities most at risk during pandemics, hurricanes, and other emergencies.
+> - 📊 **Research:** Analyze the relationship between social factors and health outcomes.
+> - 🏛️ **Policy:** Inform equitable disaster planning and response.
+>
+> Learn more or download the data: [CDC/ATSDR SVI Data & Documentation](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
 
 ## Features
 - **Network Architecture Visualization:** See the structure of a simple neural network, including input, hidden, and output layers.
