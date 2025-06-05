@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mod-1-svi-visualizer/static/css/main.f855e6bc.css",
+    "main.js": "/mod-1-svi-visualizer/static/js/main.081ad8a7.js",
+    "static/js/584.fa0ec0ad.chunk.js": "/mod-1-svi-visualizer/static/js/584.fa0ec0ad.chunk.js",
+    "service-worker.js": "/mod-1-svi-visualizer/service-worker.js",
+    "index.html": "/mod-1-svi-visualizer/index.html",
+    "main.f855e6bc.css.map": "/mod-1-svi-visualizer/static/css/main.f855e6bc.css.map",
+    "main.081ad8a7.js.map": "/mod-1-svi-visualizer/static/js/main.081ad8a7.js.map",
+    "584.fa0ec0ad.chunk.js.map": "/mod-1-svi-visualizer/static/js/584.fa0ec0ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.081ad8a7.js"
+  ]
+}
