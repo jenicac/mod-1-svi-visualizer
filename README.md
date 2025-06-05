@@ -8,6 +8,13 @@
 
 ---
 
+## 🚀 Live Demos
+
+| Deployment | Description | Link |
+|---|---|---|
+| **GitHub Pages** | Main app for uploading SVI data, visualizing the neural network, and exploring predictions interactively. | [Open App](https://jenicac.github.io/mod-1-svi-visualizer) |
+| **Bolt.New Visualization** | Interactive concept map and neural network architecture, built with Bolt.New. | [View Diagram](https://grand-pastelito-6a831d.netlify.app/) |
+
 A modern, interactive React application for visualizing simple neural network forward propagation using CDC Social Vulnerability Index (SVI) data.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?logo=github)](https://jenicac.github.io/mod-1-svi-visualizer)
